@@ -10,6 +10,7 @@ Splash Screen
 Login Window
 <img width="731" height="361" alt="image" src="https://github.com/user-attachments/assets/ade40bfc-b6a8-4d6d-90bb-65492d5de073" />
 
+
 Credential Missmatch Message
 <img width="728" height="363" alt="image" src="https://github.com/user-attachments/assets/3ada27cb-42e4-4f82-af12-bc527da73df1" />
 
