@@ -2,6 +2,7 @@
 It is a fundamental project called Employee_Management_System built to showcase the application of JDBC connectivity, JFrame and Java Swing for GUI, MySQL for Database Management.
 
 This is the Project Structure
+
 <img width="437" height="927" alt="image" src="https://github.com/user-attachments/assets/cec0b556-5231-42eb-b577-dd06a583dd66" />
 
 Splash Screen
