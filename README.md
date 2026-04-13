@@ -8,6 +8,7 @@ Splash Screen
 <img width="1442" height="797" alt="image" src="https://github.com/user-attachments/assets/b843a0a6-1da4-44b6-8b2f-90e9a55da2dc" />
 
 Login Window
+
 <img width="731" height="361" alt="image" src="https://github.com/user-attachments/assets/ade40bfc-b6a8-4d6d-90bb-65492d5de073" />
 
 
