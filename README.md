@@ -13,7 +13,9 @@ Login Window
 
 
 Credential Missmatch Message
+
 <img width="728" height="363" alt="image" src="https://github.com/user-attachments/assets/3ada27cb-42e4-4f82-af12-bc527da73df1" />
+
 
 Home Screen
 <img width="1377" height="772" alt="image" src="https://github.com/user-attachments/assets/56bd0501-638f-4be3-a49b-b6e2ae9153db" />
