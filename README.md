@@ -36,6 +36,10 @@ Delete Employee Record
 Advance Data Visualization
 <img width="1232" height="673" alt="image" src="https://github.com/user-attachments/assets/ff9cd244-92bf-441d-b938-fc52bcef2a17" />
 
+Database Structure
+<img width="1918" height="955" alt="image" src="https://github.com/user-attachments/assets/40463093-efdd-4c6b-8ee3-1207ece89148" />
+
+
 
 
 
